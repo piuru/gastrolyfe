@@ -76,7 +76,7 @@
         <div class="health-tip">
             <img src="path/to/image1.jpg" alt="Gambar Tips 1">
             <div>
-                <h3>Judul Tips 1</h3>
+                <h3>Jangan bergadang</h3>
                 <p>Teks tips kesehatan 1. Deskripsi singkat mengenai tip tersebut.</p>
             </div>
         </div>
