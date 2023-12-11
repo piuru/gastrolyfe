@@ -76,15 +76,15 @@
         <div class="health-tip">
             <img src="path/to/image1.jpg" alt="Gambar Tips 1">
             <div>
-                <h3>Jangan bergadang</h3>
-                <p>Teks tips kesehatan 1. Deskripsi singkat mengenai tip tersebut.</p>
+                <h3>Pola Makan Sehat</h3>
+                <p>Teks tips kesehatan 1.Deskripsi singkat mengenai tip tersebut.</p>
             </div>
         </div>
 
         <!-- Tips 2 -->
         <div class="health-tip">
             <div>
-                <h3>Judul Tips 2</h3>
+                <h3>JPengelolaan Stres 2</h3>
                 <p>Teks tips kesehatan 2. Deskripsi singkat mengenai tip tersebut.</p>
             </div>
             <img src="path/to/image2.jpg" alt="Gambar Tips 2">
