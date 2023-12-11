@@ -65,15 +65,15 @@
 
             <!-- Box 1 -->
             <div class="health-box">
-                <h3>Judul Info 1</h3>
-                <p>Preview teks info kesehatan 1. Deskripsi singkat mengenai topik tersebut.</p>
+                <h3> tips sistem pencernaan lambung </h3>
+                <p>Preview . memperhatikan jam makan, makan makanan alami..</p>
                 <a href="#">Baca Selengkapnya</a>
             </div>
 
             <!-- Box 2 -->
             <div class="health-box">
-                <h3>Judul Info 2</h3>
-                <p>Preview teks info kesehatan 2. Deskripsi singkat mengenai topik tersebut.</p>
+                <h3> gaya hidup sehat untuk menjaga kesehatan lambung</h3>
+                <p>Preview hindari asupan rokok dan alkohol, jangan lupakan olahraga.</p>
                 <a href="#">Baca Selengkapnya</a>
             </div>
 
