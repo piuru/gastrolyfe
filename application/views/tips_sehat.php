@@ -74,17 +74,61 @@
 
         <!-- Tips 1 -->
         <div class="health-tip">
-            <img src="path/to/image1.jpg" alt="Gambar Tips 1">
+            <img src="<?php echo base_url('assets/img/tips sehat.jpg');?>" alt="Gambar Tips 1">
             <div>
-                <h3>Pola Makan Sehat</h3>
-                <p>Teks tips kesehatan 1.Deskripsi singkat mengenai tip tersebut.</p>
+                <h3>Tips Sederhana Untuk Membuat Lambung Anda Sehat</h3>
+                <p>
+Lambung yang sehat berperan penting dalam kesejahteraan kita sehari-hari. Dalam artikel ini, kita akan membahas beberapa tips sederhana yang dapat membantu Anda merawat kesehatan lambung Anda.
+
+1. Pola Makan yang Sehat:
+
+    Makan dengan porsi kecil namun lebih sering, menghindari makan berlebihan.
+    Pilih makanan seimbang dengan kandungan serat tinggi, rendah lemak, dan rendah gula.
+
+2. Hindari Makanan Pemicu Asam:
+
+    Kurangi konsumsi makanan pedas, berlemak, dan asam.
+    Hindari minuman berkafein dan bersoda, yang dapat merangsang produksi asam lambung.
+
+3. Minum Air Secukupnya:
+
+    Pastikan Anda cukup terhidrasi sepanjang hari.
+    Hindari minum terlalu banyak air saat makan agar tidak mengganggu pencernaan.
+
+4. Kelola Stres:
+
+    Temukan cara untuk mengelola stres sehari-hari, seperti meditasi atau olahraga ringan.
+    Stres dapat memengaruhi fungsi lambung, sehingga penting untuk menemukan cara yang efektif untuk melepaskannya.
+
+5. Perhatikan Waktu Makan:
+
+    Hindari makan terlalu dekat dengan waktu tidur.
+    Berikan waktu cukup bagi tubuh Anda untuk mencerna makanan sebelum beristirahat.
+
+6. Jaga Berat Badan yang Sehat:
+
+    Menjaga berat badan yang sehat dapat membantu mencegah tekanan berlebih pada lambung.
+    Berbicara dengan dokter atau ahli gizi untuk panduan yang sesuai.
+
+7. Hindari Merokok:
+
+    Merokok dapat merangsang produksi asam lambung dan meningkatkan risiko tukak lambung.
+    Pertimbangkan untuk berhenti merokok untuk mendukung kesehatan lambung.
+
+8. Konsultasikan dengan Dokter:
+
+    Jika Anda mengalami gejala tidak normal seperti mulas atau nyeri perut, segera konsultasikan dengan dokter.
+    Dokter dapat memberikan saran dan perawatan yang sesuai dengan kondisi Anda.
+
+Kesimpulan:
+Merawat kesehatan lambung tidak selalu memerlukan perubahan besar dalam gaya hidup. Dengan mengadopsi tips sederhana ini, Anda dapat membantu menjaga kesehatan lambung Anda dan meningkatkan kesejahteraan secara keseluruhan. Tetaplah mendengarkan tubuh Anda dan konsultasikan dengan dokter jika perlu. Selamat meraih kesehatan lambung yang optimal!</p>
             </div>
         </div>
 
         <!-- Tips 2 -->
         <div class="health-tip">
             <div>
-                <h3>JPengelolaan Stres 2</h3>
+                <h3>Judul Tips 2</h3>
                 <p>Teks tips kesehatan 2. Deskripsi singkat mengenai tip tersebut.</p>
             </div>
             <img src="path/to/image2.jpg" alt="Gambar Tips 2">

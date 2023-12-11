@@ -65,15 +65,15 @@
 
             <!-- Box 1 -->
             <div class="health-box">
-                <h3> tips sistem pencernaan lambung </h3>
-                <p>Preview . memperhatikan jam makan, makan makanan alami..</p>
+                <h3>Kenali lambung Anda</h3>
+                <p>Lambung adalah organ penting dalam sistem pencernaan manusia yang berperan dalam banyak hal. Beberapa fungsi lambung dalam sistem pencernaan antara lain mencerna makanan, menghancurkan bakteri dan virus, serta menghasilkan enzim dan asam lambung yang membantu proses pencernaan. Namun, jika terjadi ketidakseimbangan asam lambung, dapat menimbulkan gejala gangguan pencernaan seperti sakit perut, nyeri pada ulu hati, mual, perut kembung, dan keluhan sejenisnya yang dikenal sebagai maag[2][5]. Beberapa tips untuk menjaga kesehatan lambung antara lain memerhatikan jam makan, makan makanan alami, makan dengan porsi kecil, mengelola stres dengan baik, dan meminum air yang cukup[2][5]. Hindari makanan yang asam dan pedas, alkohol, dan kafein karena dapat memengaruhi fungsi lambung[2][5]. Selain itu, menjaga pola makan dengan tidak ngemil di antara waktu makan dan mengunyah makanan dengan benar juga dapat membantu menjaga keseimbangan asam lambung[3]. Beberapa jenis makanan yang dapat menurunkan asam lambung antara lain sayuran, jahe, pisang, putih telur, dan yoghurt[3][4]. Jika mengalami gejala asam lambung yang sering, sebaiknya segera berkonsultasi dengan dokter untuk mendapatkan penanganan yang tepat[5].</p>
                 <a href="#">Baca Selengkapnya</a>
             </div>
 
             <!-- Box 2 -->
             <div class="health-box">
-                <h3> gaya hidup sehat untuk menjaga kesehatan lambung</h3>
-                <p>Preview hindari asupan rokok dan alkohol, jangan lupakan olahraga.</p>
+                <h3>Cara menjaga kesehatan lambung</h3>
+                <p>Beberapa tips untuk menjaga kesehatan lambung antara lain adalah memerhatikan jam makan, makan makanan alami, makan dengan porsi kecil, mengelola stres dengan baik, dan meminum air yang cukup[1][2][4]. Hindari makanan yang asam dan pedas, alkohol, dan kafein karena dapat memengaruhi fungsi lambung[1][4]. Selain itu, menjaga pola makan dengan tidak ngemil di antara waktu makan dan mengunyah makanan dengan benar juga dapat membantu menjaga keseimbangan asam lambung[3]. Beberapa jenis makanan yang dapat menurunkan asam lambung antara lain sayuran, jahe, pisang, putih telur, dan yoghurt[5]. Jika mengalami gejala asam lambung yang sering, sebaiknya segera berkonsultasi dengan dokter untuk mendapatkan penanganan yang tepat.</p>
                 <a href="#">Baca Selengkapnya</a>
             </div>
 

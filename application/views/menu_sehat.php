@@ -87,15 +87,16 @@
             <div class="menu-box">
                 <img src="<?php echo base_url('assets/img/jus-bayam.jpeg');?>" alt="Gambar Menu 1">
                 <h3>Jus Bayam Segar</h3>
-                <p>
-Jus bayam dapat bermanfaat bagi individu yang mengalami GERD (Gastroesophageal Reflux Disease). Bayam mengandung antioksidan dan serat, yang dapat membantu meredakan iritasi pada saluran pencernaan. Jus bayam juga bersifat alkalis, dapat menyeimbangkan kadar asam dalam lambung, mengurangi risiko terjadinya refluks asam. Oleh karena itu, jus bayam dapat menjadi pilihan yang baik sebagai minuman yang mendukung kesehatan lambung bagi mereka yang mengalami GERD.</p>
+                <p>Jus bayam yang menyegarkan. Bahan-bahan yang mudah di dapat.</p>
+                <a href="#">Baca Selengkapnya</a>
             </div>
             
             <!-- Menu 2 -->
             <div class="menu-box">
                 <img src="<?php echo base_url('assets/img/Quinoa-Salad.jpeg');?>" alt="Gambar Menu 2">
                 <h3>Quinoa Salad</h3>
-                <p>Quinoa kaya serat dan nutrisi, baik untuk kesehatan lambung. Seratnya bantu cegah sembelit, rendah lemak, dan bebas gluten. Antioksidan di dalamnya juga dapat mengurangi peradangan pada sistem pencernaan.</p>
+                <p>Salah yang enak dan sehat.</p>
+                <a href="#">Baca Selengkapnya</a>
             </div>
         </div>
 
@@ -104,16 +105,15 @@ Jus bayam dapat bermanfaat bagi individu yang mengalami GERD (Gastroesophageal R
             <!-- Menu 3 -->
             <div class="menu-box">
                 <img src="path/to/menu3.jpg" alt="Gambar Menu 3">
-                <h3>smoothies pisang</h3>
-                <p>Smoothies pisang lembut pada lambung dan kaya serat, cocok untuk yang sensitif terhadap makanan. Memberikan energi stabil tanpa meningkatkan asam lambung.</p>
+                <h3>Judul Menu 3</h3>
+                <p>Deskripsi singkat mengenai menu sehat 3. Informasi nutrisi dan bahan-bahan yang digunakan.</p>
             </div>
             
             <!-- Menu 4 -->
             <div class="menu-box">
                 <img src="path/to/menu4.jpg" alt="Gambar Menu 4">
-                <h3>Ikan panggang dan kentang</h3>
-                <p>Ikan panggang dengan kentang manis adalah pilihan makanan yang sangat baik untuk penderita GERD (Gastroesophageal Reflux Disease) karena menggabungkan bahan-bahan yang ramah terhadap lambung dan dapat membantu mengurangi gejala asam lambung yang tidak nyaman.
-</p>
+                <h3>Judul Menu 4</h3>
+                <p>Deskripsi singkat mengenai menu sehat 4. Informasi nutrisi dan bahan-bahan yang digunakan.</p>
             </div>
         </div>
 

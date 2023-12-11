@@ -10,6 +10,7 @@
 
     <header>
         <div class="container">
+        <img src="<?php echo base_url('assets/img/Lambung lucu.jpg');?>" alt="Gastrolyfe Logo">
             <h1>Gastrolyfe</h1>
             <nav>
                 <ul class="nav-links">
@@ -27,7 +28,7 @@
     <section class="hero">
         <div class="container">
             <h2>Selamat datang di Gastrolyfe!</h2>
-            <p>Dapatkan informasi tentang kesehatan lambung Anda disini.</p>
+            <p>Aplikasi ini dirancang dengan tujuan memberikan informasi tentang kesehatan lambung.</p>
         </div>
     </section>
 

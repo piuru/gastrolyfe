@@ -17,7 +17,7 @@ class Dashboard extends CI_Controller{
     }
 
     public function diag() {
-        $this->load->view('diag');
+        $this->load->view('diagnosis');
     }
 
     public function admin() {
